@@ -1,0 +1,152 @@
+[33mcommit ca0c1a48e25e5d0ba8c6929e12648703aad9c56d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Mon Oct 24 17:51:30 2022 -0400
+
+    Adding introduction text
+
+[33mcommit ac1142a6e0721d225fbbd7b5caed0f69f23180c0[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Mon Oct 24 17:50:19 2022 -0400
+
+    Adding description
+
+[33mcommit 9793f765633f2551e606fa77ef57fd6720a2db40[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Mon Oct 24 17:48:01 2022 -0400
+
+    Adding new section Deployment
+
+[33mcommit 69b504aa0990788662b8f0e10472b96837da16b8[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Mon Oct 24 17:45:16 2022 -0400
+
+    Adding README.md
+
+[33mcommit 1e200c0b6d1a4e9b58fd1c6c6baea9fac7352d9e[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 30 17:40:12 2022 -0400
+
+    Excluding log file directory
+
+[33mcommit e845dfbe37df12935b84c38e1be1391d616be52e[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 30 17:32:48 2022 -0400
+
+    Adding git ignore to exclude unwanted files
+
+[33mcommit 42f16d755024c7608bc6184b01503f88f6192cb1[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 30 16:59:13 2022 -0400
+
+    add new file newfile.txt
+
+[33mcommit cd1a0916cf930feaf0a87abc30aafe9f4dd7c6c9[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 30 16:58:01 2022 -0400
+
+    adding new file hipster.txt
+
+[33mcommit 9aa58d3247d6672514c65c3d7b0102a9ae4023ef[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 30 01:28:25 2022 -0400
+
+    deleting level1
+
+[33mcommit 512b183af4e4af78d1695a853a63dc32e87b1102[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 30 01:25:53 2022 -0400
+
+    Deleted hipster.txt file
+
+[33mcommit 5869982f9a9a5c580fcfc3bc1635c41a1e0e0f17[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 30 01:09:45 2022 -0400
+
+    Deleting new file
+
+[33mcommit c918ed2e5bf9111f11f39382ccbdf03447eabb20[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 30 01:04:38 2022 -0400
+
+    Renaming level1 file
+
+[33mcommit d6106ad0c60d81857d78e46be32bb21359b90997[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 30 00:57:00 2022 -0400
+
+    Moving level 2 file to back to level 2
+
+[33mcommit de7add53f47f76253ad039653f3fe75c30bdc62a[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 30 00:51:03 2022 -0400
+
+    Moving file to level 2 level 3
+
+[33mcommit bce884c0a3a9b54e6b0c5179eb3e5dae3e47283e[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 30 00:40:30 2022 -0400
+
+    Renaming level 2 file
+
+[33mcommit f132c7a93099292a152e7d369bfe793852be7b40[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 23 22:21:34 2022 -0400
+
+    renaming level3 file
+
+[33mcommit 94ab83636915cc577aa2baaa06506dfc72fb9421[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 16 23:24:24 2022 -0400
+
+    Adding several files recursively
+
+[33mcommit ae2a97a8476998b6b779b633ca91721a47eac886[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 16 22:42:30 2022 -0400
+
+    MOre ipsum for hipsters
+
+[33mcommit a21d37eb2777b7273666de975ff48fd1c5f78557[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 16 22:38:41 2022 -0400
+
+    Adding new file
+
+[33mcommit 49b85f5a40b1b65e24e632b3e8bc2f5397bd05d5[m
+Author: Ancy V <ancy@leshmail.ca>
+Date:   Fri Sep 16 22:28:56 2022 -0400
+
+    Adding more ipsum text
+
+[33mcommit fd4c560a62c018401ee8e9cbed6062fd43054274[m
+Author: AncyVi <ancy@leshmail.ca>
+Date:   Fri Sep 16 21:50:19 2022 -0400
+
+    My first commit
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
