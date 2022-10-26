@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use GIT and Github together.
+Adding a line for rebasing example.
 
 ## Introduction
 
@@ -20,4 +21,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ###Copyright
 
-COpyright 2022 GitTraining
+Copyright 2022 GitTraining
