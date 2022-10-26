@@ -15,3 +15,7 @@ As stated above, the main purpose is to provide simple examples for git training
 This can be deployed in any web server or local file system
 
 ## How to Contribute
+
+###Copyright
+
+COpyright 2022 GitTraining
