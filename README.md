@@ -16,6 +16,8 @@ This can be deployed in any web server or local file system
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Request for review.
+
 ###Copyright
 
 COpyright 2022 GitTraining
