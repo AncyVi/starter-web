@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Request for review.
 
 ###Copyright
 
-Copyright 2022 GitTraining
+Copyright 2022 GitTraining. All rights reserved
